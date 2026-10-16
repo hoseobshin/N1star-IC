@@ -2,7 +2,7 @@
 
 This repository contains the Mathematica notebook accompanying
 
-> Nakwoo Kim and Hoseob Shin, *Holographic free energy and integrated correlators of $\mathcal{N}=1^*$ theory*,
+> Nakwoo Kim and Hoseob Shin, *Holographic free energy and integrated correlators of $\mathcal{N}=1^*$ theory,
 > [arXiv:2411.08615](https://arxiv.org/abs/2411.08615).
 
 The notebook `I4TSG_and_F1122SG.nb` contains the exact evaluation of the two supergravity-limit
