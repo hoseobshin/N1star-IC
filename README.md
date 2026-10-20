@@ -7,13 +7,13 @@ This repository contains the Mathematica notebook accompanying
 
 The notebook `I4TSG_and_F1122SG.nb` contains the exact evaluation of the two supergravity-limit
 integrated correlators whose values are quoted in the paper. It starts from the mode functions
-$A_{n_1,n_2}(r)$ and $C_{n_1,n_2}(r)$ given in eqs. (3.8)–(3.10) and (A.2)–(A.5) of the paper, and
-carries out the double sums over $(n_1,n_2)$ and the final $r$-integration:
+$A_{n_1,n_2}(r)$ and $C_{n_1,n_2}(r)$ given in eqs. (3.8)–(3.10) and $-$(A.2)–$-$(A.5) of the paper
+(note the overall minus sign), and carries out the double sums over $(n_1,n_2)$ and the final $r$-integration:
 
 | Quantity | Result | Paper |
 |---|---|---|
 | $I_4[\mathcal{T}^{\rm SG}]$ | $3-6\zeta(3)$ | eq. (3.7) |
-| $-\frac{1}{c}\mathcal{F}_{1122}^{\rm SG}$ | $\frac{12}{5}-\frac{32\pi^4}{525}$ | eq. (3.28) |
+| $-\frac{1}{c}\mathcal{F}_{1122}^{\rm SG}$ | $\frac{12}{5}-\frac{32\pi^4}{525}$ | eq. (3.29) |
 
 Both results are obtained exactly. No numerical fitting is used, and no regulator is needed at any stage.
 The notebook also contains rough numerical checks of the integrands.
